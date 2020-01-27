@@ -1,0 +1,11 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\bin\Debug\Dentista.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\bin\Debug\Dentista.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\bin\Debug\Dentista.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.FrmDentista.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.FrmConsulta.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Dentista\Dentista\obj\Debug\Dentista.Menu.resources
